@@ -26,4 +26,4 @@
 ## ✅Экзаменационный билет №29
 Ответы на выбранный билет:
 
-[Билет №6](https://github.com/stankin/inet-2022/wiki/exam29)
+[Билет №29](https://github.com/stankin/inet-2022/wiki/exam29)
